@@ -35,6 +35,6 @@
  <hr>
  <img align="left" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
  <img align="center" alt="Sans-gif" src="http://pa1.narvii.com/6452/e0fbf3e30fc5dc77f12316f066783152d0342340_hq.gif">
- <img align="right" alt="Kof-gif" src="https://giphy.com/stickers/transparent-90s-gSz2mQ7HcTYru">
+ <img align="right" alt="Kof-gif" src="https://bestanimations.com/Computers/funny-computer-animated-gif-29.gif">
  
 </div>
