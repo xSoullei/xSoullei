@@ -1,4 +1,4 @@
-## Hi There! My name is Carlos Daniel :D 
+## Hi There! I'm Carlos Daniel :D 
  <div>
   <a href="https://github.com/xSoullei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xSoullei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,13 +11,13 @@
   <img align="center" alt="Soullei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Soullei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Soullei-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Soullei-Php" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Soullei-Arduino" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt = "Soullei-Ps" height = "30" width="30" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
-  <img align="center" alt = "Soullei-Ae" height = "30" width="30" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v2.png"/>
-  <img align="center" alt = "Soullei-Il" height = "30" width="30" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>
+  <img align="center" alt="Soullei-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Soullei-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt = "Soullei-Ps" height = "35" width="35" src="https://img.icons8.com/color/35/000000/adobe-photoshop--v1.png"/>
+  <img align="center" alt = "Soullei-Ae" height = "35" width="35" src="https://img.icons8.com/color/35/000000/adobe-after-effects--v2.png"/>
+  <img align="center" alt = "Soullei-Il" height = "35" width="35" src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/>
   
-  <img align="right" alt="Kof-gif" src="https://media.tenor.com/images/2ed71d1a85b6c0e20366a971fc984ed5/tenor.gif">
+  <img align="right" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
 </div>
   
   ##
