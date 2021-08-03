@@ -17,7 +17,7 @@
   <img align="center" alt = "Soullei-Ae" height = "35" width="35" src="https://img.icons8.com/color/35/000000/adobe-after-effects--v2.png"/>
   <img align="center" alt = "Soullei-Il" height = "35" width="35" src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/>
   
-  <img align="right" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
+  <img align="center" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
 </div>
   
   ##
