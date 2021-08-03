@@ -33,7 +33,7 @@
  
  <br>
  <hr>
- <img align="right" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
+ <img align="left" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
 </div>
   
   
