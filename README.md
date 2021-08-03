@@ -18,8 +18,6 @@
   <img align="center" alt = "Soullei-Il" height = "35" width="35" src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/>
   <br>
   <hr>
-  <img align="right" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
-</div>
   
   ##
  
@@ -32,9 +30,11 @@
   <a href="https://www.linkedin.com/in/carlosdde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=556993161122" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198292897316/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ 
+ <br>
+ <hr>
+ <img align="right" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
+</div>
   
   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
