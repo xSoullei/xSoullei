@@ -33,4 +33,3 @@
  
  <br>
 </div>
-  <img align="center" alt="Kof-gif" src="https://giantbomb1.cbsistatic.com/uploads/original/16/161099/2314792-k_beatdown.gif">
